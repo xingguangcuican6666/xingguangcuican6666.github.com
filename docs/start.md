@@ -11,7 +11,7 @@ This is a Minecraft mod pack build and public web. <br>
 服务器IP: 
 
 ~~~
-play.simpfun.cn:23999
+play.simpfun.cn:12547
 ~~~
 Java版整合包下载地址
 ---
@@ -28,7 +28,7 @@ play.simpfun.cn
 ~~~
 端口:
 ~~~
-23999
+12547
 ~~~
 基岩版下载地址
 ---
