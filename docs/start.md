@@ -11,7 +11,7 @@ This is a Minecraft mod pack build and public web. <br>
 服务器IP: 
 
 ~~~
-play.simpfun.cn:12547
+play.simpfun.cn:20008
 ~~~
 Java版整合包下载地址
 ---
@@ -28,8 +28,9 @@ play.simpfun.cn
 ~~~
 端口:
 ~~~
-12547
+20008
 ~~~
 基岩版下载地址
 ---
-非beta [1.20.1](https://minecraftpe-mods.com/download_minecraft_pe_v1_20_android_free "Minecraft-pe-mod")
+非beta [1.20.1](https://sdyueqian-my.sharepoint.cn/personal/admin_sdyueqian_partner_onmschina_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadmin%5Fsdyueqian%5Fpartner%5Fonmschina%5Fcn%2FDocuments%2F%E6%AD%A3%E5%BC%8F%E7%89%88%2F1%2E20%2E62%2E02&ga=1 "基岩版") <br>
+打开后选择原版下载即可
