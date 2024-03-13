@@ -32,5 +32,5 @@ play.simpfun.cn
 ~~~
 基岩版下载地址
 ---
-非beta [点击此处下载](https://sdyueqian-my.sharepoint.cn/personal/admin_sdyueqian_partner_onmschina_cn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fadmin%5Fsdyueqian%5Fpartner%5Fonmschina%5Fcn%2FDocuments%2F%E6%AD%A3%E5%BC%8F%E7%89%88%2F1%2E20%2E62%2E02%2FMinecraft%20PE%201%2E20%2E62%2E02%20v8a%E5%8E%9F%E7%89%88%2Eapk&parent=%2Fpersonal%2Fadmin%5Fsdyueqian%5Fpartner%5Fonmschina%5Fcn%2FDocuments%2F%E6%AD%A3%E5%BC%8F%E7%89%88%2F1%2E20%2E62%2E02 "基岩版") <br>
+非beta [点击此处下载](https://bbk.endyun.ltd/main "基岩版") <br>
 打开后选择原版下载即可
