@@ -1,3 +1,8 @@
+echo ===================                                   
+
+git tag                                                    
+
+echo ===================
 # 提示用户输入 tag 名称
 echo "tag name:"
 read name
@@ -8,9 +13,6 @@ read commit
 git add . -v
 git commit -v -m "$commit"
 git push -v
-echo ===================
-git tag
-echo ===================
 
 #
 # # 创建标签
