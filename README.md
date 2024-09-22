@@ -1,6 +1,6 @@
 # home
-你好像迷路了，这里什么也没有<br>
-也许下面的链接可以帮到你<br>
+浣犲ソ鍍忚糠璺簡锛岃繖閲屼粈涔堜篃娌℃湁<br>
+涔熻涓嬮潰鐨勯摼鎺ュ彲浠ュ府鍒颁綘<br>
 
-如果需要查看git帮助，请点击[此处](https://xingguangcuican6666.github.io/git "git帮助") <br>
-如果需要查看linux帮助，请点击[此处](https://xingguangcuican6666.github.io/linux "git帮助") <br>
+濡傛灉闇�瑕佹煡鐪媑it甯姪锛岃鐐瑰嚮[姝ゅ](https://xingguangcuican6666.github.io/git "git甯姪") <br>
+濡傛灉闇�瑕佹煡鐪媗inux甯姪锛岃鐐瑰嚮[姝ゅ](https://xingguangcuican6666.github.io/linux "git甯姪") <br>
