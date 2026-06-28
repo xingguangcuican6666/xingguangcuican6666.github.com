@@ -1,6 +1,19 @@
-# home
-你好像迷路了，这里什么也没有<br>
-也许下面的链接可以帮到你<br>
+# xingguangcuican6666.github.com
 
-如果需要查看git帮助，请点击[此处](https://xingguangcuican6666.github.io/git "git帮助") <br>
-如果需要查看linux帮助，请点击[此处](https://xingguangcuican6666.github.io/linux "git帮助") <br>
+Static personal website for `xingguangcuican`.
+
+## Structure
+
+- `index.html`: homepage
+- `projects/`: selected public repositories
+- `docs/`: curated technical notes
+- `assets/`: shared styles, scripts, and icons
+- `content/`: site data and markdown source
+
+## Local preview
+
+```bash
+python -m http.server -b 127.0.0.1 8080
+```
+
+Then open `http://127.0.0.1:8080`.

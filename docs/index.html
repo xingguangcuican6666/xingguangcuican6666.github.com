@@ -1,22 +1,65 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN" data-root="../">
 <head>
   <meta charset="UTF-8">
-  <title>Git helper</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Curated technical notes from xingguangcuican covering ABK, Android security, Linux workflow, and low-level experiments.">
+  <title>Docs | xingguangcuican</title>
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/main.css">
 </head>
-<body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'Git helper',
-      homepage: 'start.md',
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<body data-page="docs">
+  <div class="site-shell">
+    <header id="site-header"></header>
+    <main class="page-main">
+      <section class="page-hero panel">
+        <p class="section-kicker">Curated notes / 精选技术文档</p>
+        <div class="page-hero-copy">
+          <div>
+            <h1>Public-facing notes for the repos and systems work behind this site.</h1>
+            <p class="lead">
+              这些文档是精选后的站内说明，不追求覆盖所有仓库，而是把公开项目背后的主题、
+              方法和上下文整理成更容易浏览的入口。
+            </p>
+          </div>
+          <div class="hero-sidecard">
+            <h2>How to use this page</h2>
+            <ul class="plain-list" id="docs-guide"></ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="section docs-layout">
+        <aside class="docs-sidebar panel">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker">Catalog</p>
+              <h2>Notes</h2>
+            </div>
+          </div>
+          <div id="docs-catalog" class="docs-catalog"></div>
+        </aside>
+
+        <article class="doc-viewer panel">
+          <div class="doc-header">
+            <p class="section-kicker" id="doc-kicker">Loading</p>
+            <h2 id="doc-title">Loading document...</h2>
+            <p class="doc-summary" id="doc-summary"></p>
+            <div class="chip-row" id="doc-tags"></div>
+            <p class="doc-related" id="doc-related"></p>
+          </div>
+          <div class="markdown-body" id="doc-content">
+            <p class="muted">Loading document...</p>
+          </div>
+        </article>
+      </section>
+    </main>
+    <footer id="site-footer"></footer>
+  </div>
+
+  <script type="module" src="../assets/docs.js"></script>
 </body>
 </html>
